@@ -3,7 +3,7 @@
     "path": "C:/Users/yatin/OneDrive/Desktop/End Term BDA/titanic/TitanicData.R",
     "project_path": "TitanicData.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "391366525",
     "contents": "",
     "dirty": false,
     "created": 1670844798580.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "40,63",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670844822,
+    "lastKnownWriteTime": 1670847361,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670844822014,
+    "last_content_update": 1670847361127,
     "read_only": false,
     "read_only_alternatives": []
 }
